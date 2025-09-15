@@ -2,8 +2,6 @@
 Focado em programação e tecnologia!
 
 
-##  SCHMITZ.CAUE
-![](https://imgur.com/IlLOIQD.gif)
 
   <p>
     <a href="https://www.linkedin.com/in/cau%C3%AA-schmitz-316261356/">
@@ -20,3 +18,5 @@ Focado em programação e tecnologia!
 ## Tecnologias
 
 [![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github)](https://skillicons.dev)
+##  SCHMITZ.CAUE
+![](https://imgur.com/IlLOIQD.gif)
