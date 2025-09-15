@@ -1,6 +1,18 @@
-## Oi eu sou o Cauê Schmitz, Dev Backend Júnior 🚀 
-Focado em programação e tecnologia!
+## Oi eu sou o Cauê Schmitz, 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=##87CEEB"/>
 
+<br>
+
+<div align="center">
+  
+  <b>`Dev Backend Júnior 🚀 `</b>
+  <samp>
+      <br>
+      Oi eu sou o <b>Cauê Schmitz</b>
+focado em programação e tecnologia!
+      
+  </samp>
+</div>
 
 
   <p>
