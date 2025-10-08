@@ -15,18 +15,28 @@ focado em programação e tecnologia!
 
 ##  SCHMITZ.CAUE
 ![](https://imgur.com/IlLOIQD.gif)
-  <p>
-    <a href="https://www.linkedin.com/in/cau%C3%AA-schmitz-316261356/">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
-      LinkedIn
-    </a> &nbsp;  |  &nbsp;
-    <a href=https://github.com/schmitzcaue
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>
-      GitHub
-    </a>
-  </p>
+### 🔗 Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cau%C3%AA-schmitz-316261356//" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:caueschmitz940@gmail.com?subject=Contato%20via%20github&body=Olá%2C%20gostaria%20de%20entrar%20em%20contato%20com%20você." target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://wa.me/55 49 9816-0456?text=Olá! Vim pelo github!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/schmitz.caue//" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/caue.schmitz.2025/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 </main>
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html5,css3,bootstrap,aspnetmvc,postgresql,mysql,mssql)](https://skillicons.dev)
+
