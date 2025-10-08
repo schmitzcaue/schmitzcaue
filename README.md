@@ -4,8 +4,10 @@
   <b>`Dev Backend Júnior 🚀 `</b>
   <samp>
       <br>
-      Oi eu sou o <b>Cauê Schmitz</b>
-focado em programação e tecnologia!
+       Me chamo <strong>Cauê Schmitz</strong>, tenho <strong>18 anos</strong> e sou de <strong>Urubici/SC</strong>.<br/>
+  Iniciei recentemente minha jornada no mundo da <strong>programação</strong>.<br/>
+  Atualmente, estou estudando para me tornar um <strong>desenvolvedor</strong><br/>
+  pela <a href="https://academiadoprogramador.net/inicio" target="_blank"><strong>Academia do Programador</strong></a>. 💻✨
   </samp>
 </div>
 
