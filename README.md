@@ -38,5 +38,5 @@ focado em programação e tecnologia!
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html5,css3,bootstrap,aspnetmvc,postgresql,mysql,mssql)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,bootstrap,postgresql,mysql,php)](https://skillicons.dev)
 
