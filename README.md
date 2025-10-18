@@ -40,5 +40,5 @@
 
 ## Tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,bootstrap,postgresql,mysql,php,azure,discord,docker,figma,gmail,ai,linkedin,twitter,windows)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,js,bootstrap,postgresql,mysql,php,azure,discord,docker,figma,gmail,ai,linkedin,twitter,windows)](https://skillicons.dev)
 
