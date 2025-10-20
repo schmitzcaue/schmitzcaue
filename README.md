@@ -1,4 +1,6 @@
 <br>
+
+
 <div align="center">
   
   <b>`Dev Backend Júnior 🚀 `</b>
@@ -23,7 +25,10 @@
   <img src="https://i.imgur.com/Ql3hTs0.gif" height="400" alt="Foto 3" hspace="10">
 </p>
 
-### 🔗 Links
+
+<p align="center">
+🔗 Links
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cau%C3%AA-schmitz-316261356//" target="_blank">
@@ -44,7 +49,14 @@
 </p>
 </main>
 
-## Tecnologias
+<p align="center">
+ Tecnologias 
+</p>
 
-[![Tecnologias](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,js,bootstrap,postgresql,mysql,php,azure,discord,docker,figma,gmail,ai,linkedin,twitter,windows)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,js,bootstrap,angular,react,postgresql,mysql,php,azure,discord,docker,figma,gmail,ai,linkedin,twitter,windows" />
+  </a>
+</p>
+
 
