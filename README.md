@@ -15,8 +15,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+C%23+and+SQL+APIs;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-##  SCHMITZ.CAUE
-![](https://imgur.com/IlLOIQD.gif)
+<h2 align="center">SCHMITZ.CAUE</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/IA1TjU5.gif" height="400" alt="Foto 1" hspace="10">
+  <img src="https://i.imgur.com/IlLOIQD.gif" height="400" alt="Foto 2" hspace="10">
+  <img src="https://i.imgur.com/Ql3hTs0.gif" height="400" alt="Foto 3" hspace="10">
+</p>
+
 ### 🔗 Links
 
 <p align="center">
