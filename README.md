@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/IA1TjU5.gif" height="400" alt="Foto 1" hspace="10">
-  <img src="https://i.imgur.com/IlLOIQD.gif" height="400" alt="Foto 2" hspace="10">
+  <!-- <img src="https://i.imgur.com/IlLOIQD.gif" height="400" alt="Foto 2" hspace="10"> -->
   <img src="https://i.imgur.com/Ql3hTs0.gif" height="400" alt="Foto 3" hspace="10">
 </p>
 
